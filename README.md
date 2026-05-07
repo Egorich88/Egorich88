@@ -63,9 +63,7 @@ Python-экспортёр для Gismeteo API, развёртывание Promet
 
 ## 📫 Как связаться
 
-- Telegram: [@Prorok_27](https://t.me/Prorok_27)
 - Email: georgia-2005@mail.ru
-- Drive2: [prorok27](https://www.drive2.ru/users/prorok27/)
 
 ---
 

@@ -37,7 +37,7 @@
 
 ## 📌 Мои проекты
 
-### [🔹 kafka-system-control-4]([https://github.com/Egorich88/](https://github.com/Egorich88/kafka-system-control-4)
+### [🔹 kafka-system-control-4](https://github.com/Egorich88/](https://github.com/Egorich88/kafka-system-control-4)
 Полноценный Open Source инструмент для администрирования Kafka, который можно запустить локально (docker-compose up) или в облачном Kubernetes. 
 Проект демонстрирует навыки full‑stack разработки, DevOps, контейнеризации и работы с облаками.
 

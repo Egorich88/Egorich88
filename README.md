@@ -62,9 +62,9 @@ The project received positive feedback from the Drive2 community.
 
 ## 📊 GitHub Stats
 
-![Egorich88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egorich88&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egorich88&layout=compact&theme=radical)
-
+![](https://github-readme-stats.shion.dev/api?username=Egorich88&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Egorich88&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Egorich88&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 📫 How to Reach Me

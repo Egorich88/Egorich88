@@ -1,3 +1,5 @@
+# 💫 About Me:
+
 ### 🎨 Hi, I'm Egor — SRE/DevOps
 > 13+ years of IT experience at Sber and VTB.
 
@@ -13,7 +15,7 @@ My true passion is Grafana dashboards. They say I craft them like Repin (some ev
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)

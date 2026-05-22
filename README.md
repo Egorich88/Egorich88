@@ -1,21 +1,22 @@
-# 💫 About Me:
+# 💫 Обо мне
 
 ### SRE/DevOps
-> 13+ years of IT experience at Sber and VTB.
+> Более 13 лет опыта в IT в Сбере и ВТБ.
 
-I don't really care what language I write code in or what infrastructure I run it on — as long as the technology is modern and reliable. I build my projects from such building blocks: they don't crash, and they're a pleasure to look at.
+Мне неважно, на чём писать код или разворачивать инфраструктуру — главное, чтобы технологии были современными и надёжными. Именно из таких кирпичиков я создаю проекты, которые не падают и радуют глаз.
 
-My true passion is Grafana dashboards. They say I craft them like Repin (some even say better). For me, clarity and beauty are inseparable.
+Моя особая страсть — дашборды в Grafana. Ходят слухи, что рисую их как Репин. 
+Для меня информативность и эстетика неразделимы.
 
-**Author of open‑source tools for Apache Kafka (Kafka System Control) and weather monitoring (Russia Weather).**
+**Автор open‑source продукта для Apache Kafka (Kafka System Control)**
 
-**Currently looking for a remote job in a strong team that values reliability, aesthetics, and isn't afraid of fresh ideas.**
+**Сейчас ищу удалённую работу в сильную команду, где ценят надёжность, красоту и не боятся новых идей.**
 
 ![](https://komarev.com/ghpvc/?username=Egorich88&color=FF7A8A&style=for-the-badge)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Стек технологий
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -37,40 +38,41 @@ My true passion is Grafana dashboards. They say I craft them like Repin (some ev
 
 ---
 
-## 📌 My Projects
+## 📌 Мои проекты
 
 ### [🔹 kafka-system-control-4 (Open Source)](https://github.com/Egorich88/kafka-system-control-4)
-A full-fledged open‑source tool for Kafka administration. You can run it locally with `docker-compose up` or deploy it to a cloud Kubernetes cluster.  
-This project demonstrates **full‑stack development, DevOps, containerization, and cloud skills**.
+Полноценный open‑source инструмент для администрирования Kafka. Запускается локально через `docker-compose up` или разворачивается в облачном Kubernetes.  
+Проект демонстрирует **full‑stack разработку, DevOps, контейнеризацию и работу с облаками**.
 
 ### [🔹 Kafka System Control](https://github.com/Egorich88/kafka-system-control)
-A comprehensive Apache Kafka management system with a Bash interface and Java utilities.  
-Automates topic creation, ACLs, lag analysis. Supports multi‑environment (DEV/PREPROD/PROD), full logging.  
-**Result:** reduced routine operations by ~70%, eliminated accidental errors in production.
+Комплексная система управления Apache Kafka с Bash‑интерфейсом и Java‑утилитами.  
+Автоматизация создания топиков, ACL, анализа лагов. Поддержка нескольких окружений (DEV/PREPROD/PROD), полное логирование.  
+**Результат:** сокращение рутинных операций ~70%, исключение случайных ошибок в проде.
 
 ### [🔹 Russia Weather Monitoring](https://github.com/Egorich88/russia-weather)
-A fully automated DevOps project for collecting and visualizing weather data.  
-Python exporter for the Gismeteo API, Prometheus/Grafana deployment via Ansible, CI/CD in Jenkins.  
-Dashboard with an interactive map and table for 90 cities.
+Полностью автоматизированный DevOps‑проект для сбора и визуализации погодных данных.  
+Python‑экспортёр для Gismeteo API, развёртывание Prometheus/Grafana через Ansible, CI/CD в Jenkins.  
+Дашборд с интерактивной картой и таблицей для 90 городов.
 
 ### [🔹 DR Viewer RU / RU2](https://github.com/Egorich88/DR-Viewer-RU2)
-🇷🇺 Android app for the Denso H0013FL100 dashcam (Subaru, JDM).  
-Complete Russian localization, translation of 500+ strings, custom graphics, Android 14 support.  
-The project received positive feedback from the Drive2 community.
+🇷🇺 Android‑приложение для видеорегистратора Denso H0013FL100 (Subaru, JDM).  
+Полная русификация, перевод более 500 строк, замена графики, поддержка Android 14.  
+Проект получил положительные отзывы в сообществе Drive2.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub статистика
 
 ![](https://github-readme-stats.shion.dev/api?username=Egorich88&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Egorich88&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Egorich88&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
-## 📫 How to Reach Me
+## 📫 Как связаться
 
 - Email: georgia-2005@mail.ru
 
 ---
 
-⭐️ If any project was useful, feel free to star it!
+⭐️ Если какой‑то проект оказался полезным — не стесняйся поставить звёздочку!

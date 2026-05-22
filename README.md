@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### 🎨 Hi, I'm Egor — SRE/DevOps
+### SRE/DevOps
 > 13+ years of IT experience at Sber and VTB.
 
 I don't really care what language I write code in or what infrastructure I run it on — as long as the technology is modern and reliable. I build my projects from such building blocks: they don't crash, and they're a pleasure to look at.

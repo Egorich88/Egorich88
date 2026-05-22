@@ -1,20 +1,19 @@
-### 🎨 Привет, я Егор — SRE/DevOps.
-> более 13 лет опыта в IT Сбер и ВТБ.
+### 🎨 Hi, I'm Egor — SRE/DevOps
+> 13+ years of IT experience at Sber and VTB.
 
-Мне неважно, на чём писать код или разворачивать инфраструктуру — главное, чтобы технологии были современными и надёжными. Именно из таких кирпичиков я создаю проекты, которые не падают и радуют глаз.
+I don't really care what language I write code in or what infrastructure I run it on — as long as the technology is modern and reliable. I build my projects from such building blocks: they don't crash, and they're a pleasure to look at.
 
-Моя особая страсть — дашборды в Grafana. Говорят, я рисую их как Репин (а некоторые говорят, даже красивее). Для меня информативность и эстетика неразделимы.
+My true passion is Grafana dashboards. They say I craft them like Repin (some even say better). For me, clarity and beauty are inseparable.
 
-Автор open‑source инструментов для Apache Kafka (Kafka System Control) и погодного мониторинга (Russia Weather).
+**Author of open‑source tools for Apache Kafka (Kafka System Control) and weather monitoring (Russia Weather).**
 
-
-Сейчас ищу удалённую работу в сильную команду, где ценят надёжность, красоту и не боятся новых идей.
+**Currently looking for a remote job in a strong team that values reliability, aesthetics, and isn't afraid of fresh ideas.**
 
 ![](https://komarev.com/ghpvc/?username=Egorich88&color=FF7A8A&style=for-the-badge)
 
 ---
 
-## 🛠️ Стек технологий
+## 🛠️ Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -33,42 +32,43 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
 ---
 
-## 📌 Мои проекты
+## 📌 My Projects
 
-### [🔹 kafka-system-control-4](https://github.com/Egorich88/kafka-system-control-4)
-Полноценный Open Source инструмент для администрирования Kafka, который можно запустить локально (docker-compose up) или в облачном Kubernetes. 
-Проект демонстрирует навыки full‑stack разработки, DevOps, контейнеризации и работы с облаками.
+### [🔹 kafka-system-control-4 (Open Source)](https://github.com/Egorich88/kafka-system-control-4)
+A full-fledged open‑source tool for Kafka administration. You can run it locally with `docker-compose up` or deploy it to a cloud Kubernetes cluster.  
+This project demonstrates **full‑stack development, DevOps, containerization, and cloud skills**.
 
 ### [🔹 Kafka System Control](https://github.com/Egorich88/kafka-system-control)
-Комплексная система управления Apache Kafka с Bash‑интерфейсом и Java‑утилитами.  
-Автоматизация создания топиков, ACL, анализа лагов. Поддержка multi‑environment (DEV/PREPROD/PROD), полное логирование.  
-**Результат:** сокращение рутинных операций на ~70%, исключение случайных ошибок в проде.
+A comprehensive Apache Kafka management system with a Bash interface and Java utilities.  
+Automates topic creation, ACLs, lag analysis. Supports multi‑environment (DEV/PREPROD/PROD), full logging.  
+**Result:** reduced routine operations by ~70%, eliminated accidental errors in production.
 
 ### [🔹 Russia Weather Monitoring](https://github.com/Egorich88/russia-weather)
-Полностью автоматизированный DevOps-проект для сбора и визуализации погодных данных.  
-Python-экспортёр для Gismeteo API, развёртывание Prometheus/Grafana через Ansible, CI/CD в Jenkins.  
-Дашборд с интерактивной картой и таблицей для 90 городов.
+A fully automated DevOps project for collecting and visualizing weather data.  
+Python exporter for the Gismeteo API, Prometheus/Grafana deployment via Ansible, CI/CD in Jenkins.  
+Dashboard with an interactive map and table for 90 cities.
 
 ### [🔹 DR Viewer RU / RU2](https://github.com/Egorich88/DR-Viewer-RU2)
-🇷🇺 Android-приложение для видеорегистратора Denso H0013FL100 (Subaru, JDM).  
-Полная русификация, перевод >500 строк, замена графики, поддержка Android 14.  
-Проект получил положительные отзывы в сообществе (Drive2).
+🇷🇺 Android app for the Denso H0013FL100 dashcam (Subaru, JDM).  
+Complete Russian localization, translation of 500+ strings, custom graphics, Android 14 support.  
+The project received positive feedback from the Drive2 community.
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Stats
 
 ![Egorich88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egorich88&show_icons=true&theme=radical&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egorich88&layout=compact&theme=radical)
 
 ---
 
-## 📫 Как связаться
+## 📫 How to Reach Me
 
 - Email: georgia-2005@mail.ru
 
 ---
 
-⭐️ Если какой-то проект оказался полезным — не стесняйся ставить звёздочку!
+⭐️ If any project was useful, feel free to star it!

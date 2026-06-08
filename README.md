@@ -21,7 +21,7 @@ Go, React, Kafka, Kubernetes, CI/CD. Вожу проект от идеи до п
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=white&logoWidth=25)
-<img src="https://img.shields.io/badge/JS-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=323330&logoWidth=30" width="36" height="36" style="border-radius: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)

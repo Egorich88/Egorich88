@@ -19,31 +19,46 @@ Go, React, Kafka, Kubernetes, CI/CD. Вожу проект от идеи до п
 
 ## 💻 Стек технологий
 
+
+**Frontend / Libraries**
 ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=white&logoWidth=25)
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=white&logoWidth=25)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=plastic&logo=redhatopenshift&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![ELK](https://img.shields.io/badge/Elastic%20Stack-005571?style=plastic&logo=elasticstack&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=plastic&logo=zabbix&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white)
+
+**Containerization & Orchestration**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=plastic&logo=redhatopenshift&logoColor=white)
+
+**Operating System**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
+**CI/CD, Automation & VCS**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=plastic&logo=teamcity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=plastic&logo=teamcity&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 
+**Monitoring & Logging**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
+![ELK](https://img.shields.io/badge/Elastic%20Stack-005571?style=plastic&logo=elasticstack&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=plastic&logo=zabbix&logoColor=white)
+
+**Streaming**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white)
 ---
 
 ## 📌 Мои проекты

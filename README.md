@@ -49,11 +49,6 @@
 Полноценный open‑source инструмент для администрирования Kafka. Запускается локально через `docker-compose up` или разворачивается в облачном Kubernetes.  
 Проект демонстрирует **full‑stack разработку, DevOps, контейнеризацию и работу с облаками**.
 
-### [🔹 Kafka System Control](https://github.com/Egorich88/kafka-system-control)
-Комплексная система управления Apache Kafka с Bash‑интерфейсом и Java‑утилитами.  
-Автоматизация создания топиков, ACL, анализа лагов. Поддержка нескольких окружений (DEV/PREPROD/PROD), полное логирование.  
-**Результат:** сокращение рутинных операций ~70%, исключение случайных ошибок в проде.
-
 ### [🔹 Russia Weather Monitoring](https://github.com/Egorich88/russia-weather)
 Полностью автоматизированный DevOps‑проект для сбора и визуализации погодных данных.  
 Python‑экспортёр для Gismeteo API, развёртывание Prometheus/Grafana через Ansible, CI/CD в Jenkins.  
@@ -79,6 +74,3 @@ Python‑экспортёр для Gismeteo API, развёртывание Prom
 - Email: georgia-2005@mail.ru
 - Telegram: Prorok_27
 
----
-
-⭐️ Если какой‑то проект оказался полезным — не стесняйся поставить звёздочку!

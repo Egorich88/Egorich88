@@ -10,6 +10,7 @@
 
 📍 Работаю в Сбере, открыт для обсуждения интересных проектов.
 
+
 ![](https://komarev.com/ghpvc/?username=Egorich88&color=FF7A8A&style=for-the-badge)
 
 ---

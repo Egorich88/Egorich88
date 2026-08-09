@@ -15,10 +15,11 @@
 ---
 
 ## 💻 Стек технологий
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=white&logoWidth=25)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
@@ -39,7 +40,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
 ![ELK](https://img.shields.io/badge/Elastic%20Stack-005571?style=plastic&logo=elasticstack&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-FF0000?style=plastic&logo=zabbix&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white)
+
 ---
 
 ## 📌 Мои проекты

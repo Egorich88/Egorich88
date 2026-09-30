@@ -13,6 +13,7 @@
 🛰 Сейчас ищу работу:
 
    · Архитектор / Tech Lead
+
    · SRE / DevOps
 
 ![](https://komarev.com/ghpvc/?username=Egorich88&color=FF7A8A&style=for-the-badge)

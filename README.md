@@ -8,6 +8,7 @@
 
 Автор open‑source продукта **Kafka System Control**.
 
+📍 Работаю в Сбере 
 🛰 Сейчас ищу работу:
    · Архитектор / Tech Lead
    · SRE / DevOps

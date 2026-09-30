@@ -8,8 +8,7 @@
 
 Автор open‑source продукта **Kafka System Control**.
 
-📍 Работаю в Сбере, открыт для обсуждения интересных проектов.
-
+🔭 Сейчас ищу работу на позицию full stack разработчика, аналитика, архитектора, SRE/DevOps 
 
 ![](https://komarev.com/ghpvc/?username=Egorich88&color=FF7A8A&style=for-the-badge)
 
